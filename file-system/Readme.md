@@ -1,3 +1,5 @@
+##### Blog to read: [Here](https://iemafzalhassan.notion.site/Linux-Operating-System-The-Foundation-of-DevOps-Engineering-12583d10a86f8055a898f01ff1db47bb?source=copy_link)
+
 ## **🧠 Assignment: Linux File System – DevOps Interview Practice Questions**
 
 ### 🔹 **Basic Understanding**
