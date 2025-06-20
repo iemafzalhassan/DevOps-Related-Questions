@@ -29,20 +29,36 @@ Explore concepts like:
 
 ---
 
-## 👥 About the Community
+## 👥 Community Contributors
+
+The sessions in this series are conducted and managed by our passionate **TrainWithShubham Discord volunteers**:
+
+- 🧑‍🏫 **Fauziya**
+- 🧑‍🏫 **Shubham Tyagi**
+- 🧑‍🏫 **Altamash**
+- 🧑‍🏫 **Harshal**
+- 🧑‍🏫 **Amrita Kumari**
+- 🧑‍🏫 **Yashir Hussain**
+
+Thanks to their time, energy, and mentorship, this repository exists as a shared learning resource for everyone in the DevOps journey. 💙
+
+---
+
+## 💬 About the Community
 
 This repository is part of the **Linux Series** organized in the  
-💬 [TrainWithShubham Discord Server](https://discord.gg/trainwithshubham) – a growing DevOps learning community with:
-- Regular sessions
-- Real-world projects
+👉 [TrainWithShubham Discord Server](https://discord.gg/trainwithshubham) – a growing DevOps learning community with:
+
+- Weekly live sessions
+- Real-world DevOps projects
 - Interview preparation
-- Mentorship & peer learning
+- Mentorship & collaborative learning
 
 ---
 
 ## 🤝 How to Contribute
 
-We welcome contributions from community learners!  
+We welcome contributions from **learners and mentors** in the community!  
 To add your own:
 - Fork this repo
 - Create a new folder with your topic/assignment
@@ -53,8 +69,8 @@ To add your own:
 
 ## 📩 Stay Connected
 
-- Discord: [TrainWithShubham Community](https://discord.gg/trainwithshubham)
-- Maintained by: [Afzal Hassan](https://github.com/iemafzalhassan)
+- Discord: [Join the Community](https://discord.gg/trainwithshubham)
+- Maintainer: [Afzal Hassan](https://github.com/iemafzalhassan)
 
 ---
 
