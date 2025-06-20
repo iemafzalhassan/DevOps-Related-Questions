@@ -54,3 +54,9 @@
 
 >
 > ### Create a post about it and post it on LinkedIn, mentioning TrainWithShubhamCommunity session you've attended and learned about file system.
+
+
+#### Resources:
+
+- [Linux foundation](https://www.linuxfoundation.org/blog/blog/classic-sysadmin-the-linux-filesystem-explained)
+- [Phoenixnap](https://phoenixnap.com/kb/linux-file-system)
