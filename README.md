@@ -33,12 +33,12 @@ Explore concepts like:
 
 The sessions in this series are conducted and managed by our passionate **TrainWithShubham Discord volunteers**:
 
-- 🧑‍🏫 **Fauzeya**
-- 🧑‍🏫 **Shubham Tayde**
-- 🧑‍🏫 **Altamash**
-- 🧑‍🏫 **Harshal**
-- 🧑‍🏫 **Amrita Kumari**
-- 🧑‍🏫 **Yashir Hussain**
+- 🧑‍🏫 **[Fauzeya](https://github.com/fauzeya67)**
+- 🧑‍🏫 **[Shubham Tayde](https://github.com/SHUBHAM-TAYDE)**
+- 🧑‍🏫 **[Altamash](https://github.com/altamashGit)**
+- 🧑‍🏫 **[Harshal](https://github.com/harshaerror)**
+- 🧑‍🏫 **[Amrita Kumari](https://github.com/amrita122)**
+- 🧑‍🏫 **[Yashir Hussain](https://github.com)**
 
 Thanks to their time, energy, and mentorship, this repository exists as a shared learning resource for everyone in the DevOps journey. 💙
 
