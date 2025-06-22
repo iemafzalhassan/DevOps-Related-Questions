@@ -19,13 +19,15 @@ Each folder in this repository represents a **Linux series session** or **topic-
 
 ## 🔥 Current Assignment
 
-📁 [`linux-filesystem-assignment/`](./linux-filesystem-assignment/)  
 Explore concepts like:
-- Linux directory structure
-- File systems: ext4, XFS, Btrfs, ZFS
-- Inodes, mounting, journaling
-- DevOps relevance: Docker volumes, logs, persistent storage
-- 20+ DevOps-style interview questions with answers
+- Software Repositories	Public or private storage locations where package files (.deb/.rpm) are hosted.
+- Package Lifecycle	Stages: Download → Install → Configure → Upgrade → Remove.
+- Dependency Hell	Issues that arise when packages have conflicting or unsatisfied dependencies.
+- GPG Key Management
+- Centralized Logging (Remote Syslog)	Sending logs from multiple systems to one log server using rsyslog or syslog-ng.
+- Structured Logging	Logging with JSON-like key-value pairs (used in journald, ELK, Fluentd).
+- Log Forwarding Tools	Tools like Logstash, Fluentd, Filebeat, and syslog-ng for log collection.
+- Audit Logging
 
 ---
 
