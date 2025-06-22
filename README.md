@@ -33,8 +33,8 @@ Explore concepts like:
 
 The sessions in this series are conducted and managed by our passionate **TrainWithShubham Discord volunteers**:
 
-- 🧑‍🏫 **Fauziya**
-- 🧑‍🏫 **Shubham Tyagi**
+- 🧑‍🏫 **Fauzeya**
+- 🧑‍🏫 **Shubham Tayde**
 - 🧑‍🏫 **Altamash**
 - 🧑‍🏫 **Harshal**
 - 🧑‍🏫 **Amrita Kumari**
