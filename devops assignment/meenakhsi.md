@@ -1,3 +1,5 @@
+
+<span style="color:red">Red Text</span>
 Software Repositories Public or private storage locations where package files (.deb/.rpm) are hosted.
 
 🔹 Software Repositories
