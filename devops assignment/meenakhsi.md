@@ -54,7 +54,7 @@ gpgcheck=1
 Package Lifecycle Stages: Download → Install → Configure → Upgrade → Remove.
 
 Download- 
-we download pacakeage with sudo apt download nginx from a configuration software repository 
+we download packages with sudo apt download nginx from a configuration software repository 
 
 install:-
 The package manager installs the software onto the system, placing files in appropriate directories and resolving dependencies.
@@ -387,7 +387,7 @@ Forensics: Investigate breaches or misconfigurations
 
 Operational Monitoring: Trace system changes or user activities
 
-🛠️ Common Audit Log Events
+🛠️ Common Audit Log  Events
 Event Type	Example
 User login/logout	User 'admin' logged in from IP x.x.x.x
 Access control changes	Role 'admin' granted to user123
@@ -452,3 +452,29 @@ Copy code
 
 
 
+✅ 1. Install auditd
+bash
+Copy code
+sudo apt update
+sudo apt install auditd audispd-plugins
+✅ 2. Enable and Start auditd
+bash
+Copy code
+sudo systemctl enable auditd
+sudo systemctl start auditd
+✅ 3. Basic audit trail commands
+Check status:
+
+bash
+Copy code
+sudo auditctl -s
+View logs:
+
+bash
+Copy code
+sudo ausearch
+See logs for a specific user:
+
+bash
+Copy code
+sudo ausearch -ua $(id -u username)
