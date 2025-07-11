@@ -8,7 +8,7 @@ This session provided a practical understanding of how containerization — espe
 
 ---
 
-## ❓ Discussion Questions
+##  Discussion Questions
 
 ### 1. What is WSL and how does it help run Linux environments inside Windows?
 
