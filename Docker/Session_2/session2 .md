@@ -16,6 +16,7 @@ Below are the questions discussed:
  *Scenario-Based Questions*
 
 Scenario Questions 1
+
 **Docker Container Not Accessible**
 Scenario:
 You’ve deployed an NGINX container using the command:
