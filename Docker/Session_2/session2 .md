@@ -18,20 +18,28 @@ Below are the questions discussed:
 Scenario Questions 1
 
 **Docker Container Not Accessible**
+
 Scenario:
+
 You’ve deployed an NGINX container using the command:
+
 ```bash
 docker run -d -p 8080:80 nginx
 ```
+
 But when accessing http://localhost:8080, the browser shows "This site can’t be reached".
 
 Question:
 What steps would you take to troubleshoot this issue? Mention how networking works in Docker + WSL.
 
 Scenario Questions 2
+
 **Docker Installation Issues**
+
 Scenario:
+
 A teammate tries to install Docker Desktop but gets an error that Hyper-V is disabled, and Docker won’t start.
 
 Question:
+
 What would you check first? How can WSL2 resolve this issue, and what settings should be enabled during installation?
