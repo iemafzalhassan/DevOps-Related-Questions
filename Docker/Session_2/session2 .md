@@ -1,6 +1,6 @@
-# 🚀 Docker Learning Series: Session 2
+# Docker Learning Series: Session 2
 
-### 🎯 Topic: From Virtual Machine Struggles to Docker Magic
+### Topic: From Virtual Machine Struggles to Docker Magic
 
 Welcome to **Session 2** of our Docker learning series!
 
@@ -12,20 +12,13 @@ This session provided a practical understanding of how containerization — espe
 
 ### 1. What is WSL and how does it help run Linux environments inside Windows?
 
-- Explore how Windows Subsystem for Linux (WSL) enables developers to run a Linux distribution natively on Windows without dual-boot or VM setups.
-
 ---
 
 ### 2. What is Docker and why is it preferred over VMs for app deployment today?
 
-- Compare Docker containers vs traditional virtual machines.
-- Discuss resource efficiency, startup time, portability, and consistency.
-
 ---
 
 ### 3. What are the limitations of using WSL for production workloads?
-
-- Understand the drawbacks of using WSL in production, such as networking complexity, hardware access, systemd support, and security limitations.
 
 ---
 
