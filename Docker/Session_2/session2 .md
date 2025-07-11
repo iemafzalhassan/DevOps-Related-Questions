@@ -1,25 +1,39 @@
-**Docker Session 1: Questions**
+# 🚀 Docker Learning Series: Session 2
 
-Welcome to Session 2 of our Docker learning series!
+### 🎯 Topic: From Virtual Machine Struggles to Docker Magic
 
-This session focused on "From Virtual Machine Struggles to Docker Magic" — giving everyone a practical understanding of how modern containerization is revolutionizing development.
-Below are the questions discussed:
+Welcome to **Session 2** of our Docker learning series!
 
-# 1. What is WSL and how does it help run Linux environments inside Windows?
+This session provided a practical understanding of how containerization — especially using Docker — simplifies development and deployment compared to traditional virtual machines.
 
+---
 
-# 2. What is Docker and why is it preferred over VMs for app deployment today?
+## ❓ Discussion Questions
 
+### 1. What is WSL and how does it help run Linux environments inside Windows?
 
-# 3. What are the limitations of using WSL for production workloads?
+- Explore how Windows Subsystem for Linux (WSL) enables developers to run a Linux distribution natively on Windows without dual-boot or VM setups.
 
- *Scenario-Based Questions*
+---
 
-Scenario Questions 1
+### 2. What is Docker and why is it preferred over VMs for app deployment today?
 
-**Docker Container Not Accessible**
+- Compare Docker containers vs traditional virtual machines.
+- Discuss resource efficiency, startup time, portability, and consistency.
 
-Scenario:
+---
+
+### 3. What are the limitations of using WSL for production workloads?
+
+- Understand the drawbacks of using WSL in production, such as networking complexity, hardware access, systemd support, and security limitations.
+
+---
+
+##  Scenario-Based Questions
+
+###  Scenario 1: Docker Container Not Accessible
+
+**Scenario:**
 
 You’ve deployed an NGINX container using the command:
 
@@ -32,11 +46,10 @@ But when accessing http://localhost:8080, the browser shows "This site can’t b
 Question:
 What steps would you take to troubleshoot this issue? Mention how networking works in Docker + WSL.
 
-Scenario Questions 2
 
-**Docker Installation Issues**
+###  Scenario 2: Docker Installation Issues
 
-Scenario:
+**Scenario:**
 
 A teammate tries to install Docker Desktop but gets an error that Hyper-V is disabled, and Docker won’t start.
 
