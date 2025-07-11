@@ -49,3 +49,13 @@ A teammate tries to install Docker Desktop but gets an error that Hyper-V is dis
 Question:
 
 What would you check first? How can WSL2 resolve this issue, and what settings should be enabled during installation?
+
+
+
+###  What You Need to Do:
+
+- Recreate each scenario on your own system.
+- Troubleshoot and resolve the issue using the hints provided.
+- Take **screenshots** of your process and results (e.g., Docker commands, browser results, WSL settings).
+- Add your solution (step-by-step explanation + images) to this repository in the `Docker/session-2` folder.
+- Raise a **Pull Request**
