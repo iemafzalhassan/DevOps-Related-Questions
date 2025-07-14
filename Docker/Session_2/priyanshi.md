@@ -29,13 +29,19 @@ This ensures the app runs the same regardless of where it is deployed — on a d
 
 ### 3. What are the limitations of using WSL for production workloads?
 
-❌ Not a real Linux host	 = WSL is a compatibility layer on top of Windows, not a full Linux distribution.
-❌ No systemd support (WSL 1) =	Many Linux services depend on systemd. WSL 1 doesn't support it, and WSL 2 only partially supports it with extra config.
-❌ No kernel-level control =	You cannot modify or control the Linux kernel (required for advanced networking, kernel modules, etc.).
-❌ Limited Networking Features =	Network behavior in WSL is different; it's not suitable for apps that require custom networking or advanced firewall rules.
-❌ Less Stable for Long Running Services	=  WSL is tied to the Windows session. Services may stop when the Windows system sleeps, reboots, or logs out.
-❌ Not Meant for Multi-User Access  = Production Linux servers often support multiple users and SSH access. WSL is single-user and not designed for remote access.
-❌ Security Concerns  = Running production services inside a Windows host increases the attack surface and is not best practice.
+* Not a real Linux host	 = WSL is a compatibility layer on top of Windows, not a full Linux distribution.
+
+* No systemd support (WSL 1) =	Many Linux services depend on systemd. WSL 1 doesn't support it, and WSL 2 only partially supports it with extra config.
+
+* No kernel-level control =	You cannot modify or control the Linux kernel (required for advanced networking, kernel modules, etc.).
+
+* Limited Networking Features =	Network behavior in WSL is different; it's not suitable for apps that require custom networking or advanced firewall rules.
+
+* Less Stable for Long Running Services	=  WSL is tied to the Windows session. Services may stop when the Windows system sleeps, reboots, or logs out.
+
+* Not Meant for Multi-User Access  = Production Linux servers often support multiple users and SSH access. WSL is single-user and not designed for remote access.
+
+* Security Concerns  = Running production services inside a Windows host increases the attack surface and is not best practice.
 
 
 ###  Scenario 1: Docker Container Not Accessible
@@ -120,6 +126,4 @@ docker --version
 docker run hello-world
 ```
 if my container runs then docker is working 
-
-
 
